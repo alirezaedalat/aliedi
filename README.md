@@ -1,4 +1,4 @@
-# aliedi
+
 
 👋 Hello there! I'm Alireza, a dedicated Agile/DevOps Functional Testing Lead with over 8 years of experience in Web, Mobile (Android & IOS), API, and Thick client testing. My expertise spans Salesforce, e-commerce, Aviation, and Finance domains, thriving in fast-paced Agile – Scrum & DevOps environments.
 
